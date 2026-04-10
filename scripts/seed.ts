@@ -138,7 +138,7 @@ if (existingServices.count === 0) {
       content: '<h2>Express Air Freight Solutions</h2><p>When speed matters most, our air freight services deliver. We work with major airlines worldwide to provide fast, reliable air cargo transportation.</p><h3>Air Freight Advantages</h3><ul><li>Fastest mode of transportation</li><li>Ideal for time-sensitive shipments</li><li>Door-to-airport and airport-to-airport options</li><li>Dangerous goods handling capability</li><li>Temperature-controlled options</li><li>Global coverage through airline partnerships</li></ul>',
       features: JSON.stringify(['Express delivery', 'Door-to-airport service', 'Dangerous goods handling', 'Temperature controlled', 'Worldwide coverage']),
       icon: '✈️',
-      image: 'https://images.unsplash.com/photo-1436491865332-7a61a109db05?w=800&h=500&fit=crop',
+      image: 'https://images.unsplash.com/photo-1569154941061-e231b4725ef1?w=800&h=500&fit=crop',
       sort_order: 2,
     },
     {
@@ -178,7 +178,7 @@ if (existingServices.count === 0) {
       content: '<h2>Complete Door-to-Door Service</h2><p>Let us handle your entire logistics chain. From pickup at your factory to delivery at the final destination, we manage every step.</p><h3>Door-to-Door Includes</h3><ul><li>Factory/warehouse pickup</li><li>Multi-modal transportation</li><li>Customs clearance at both ends</li><li>Last-mile delivery</li><li>Single point of contact</li><li>Full tracking visibility</li></ul>',
       features: JSON.stringify(['Pickup service', 'Multi-modal transport', 'Last mile delivery', 'Single point of contact', 'Full tracking']),
       icon: '🚛',
-      image: 'https://images.unsplash.com/photo-1494412574643-ff11b0a5eb19?w=800&h=500&fit=crop',
+      image: 'https://images.unsplash.com/photo-1553413077-190dd305871c?w=800&h=500&fit=crop',
       sort_order: 6,
     },
   ];
@@ -210,7 +210,7 @@ if (existingNews.count === 0) {
       slug: 'partnership-network-expanding',
       content: '<p>We take time to build good relationships with world-class airlines and shipping lines. Our competitive cooperative partners include MSK, EMC, HMM, MCC, COSCO, OOCL, YML, CNC, MSC, SITC, CUL, HPL, PIL, ZIM, and many more.</p><p>We can offer direct and transshipment services from all major ports loading of China with efficient and cost-saving alternatives available to customers.</p><p>We also have strong partners in Ningbo, Shanghai, Tianjin and other major ports in China. Our international partners network spans throughout the world, enabling door-to-door service to every corner of the globe.</p>',
       excerpt: 'Building strong relationships with world-class airlines and shipping lines for better service.',
-      image: 'https://images.unsplash.com/photo-1494412574643-ff11b0a5eb19?w=800&h=400&fit=crop',
+      image: 'https://images.unsplash.com/photo-1553413077-190dd305871c?w=800&h=400&fit=crop',
       category: 'company',
     },
     {

@@ -44,7 +44,7 @@ export default function AboutPage() {
   return (
     <>
       {/* Banner */}
-      <section className="relative h-[60vh] min-h-[400px] bg-cover bg-center" style={{ backgroundImage: 'url(https://images.unsplash.com/photo-1494412574643-ff11b0a5eb19?w=1920&h=800&fit=crop)' }}>
+      <section className="relative h-[60vh] min-h-[400px] bg-cover bg-center" style={{ backgroundImage: 'url(https://images.unsplash.com/photo-1566576721346-d4a3b4eaeb55?w=1920&h=800&fit=crop)' }}>
         <div className="absolute inset-0 bg-dark/60" />
         <div className="relative z-10 h-full flex items-end pb-20">
           <div className="max-w-[1400px] mx-auto px-6 lg:px-10 w-full">
@@ -75,7 +75,7 @@ export default function AboutPage() {
                 <img src="https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=400&h=300&fit=crop" alt="Container" className="w-full h-48 object-cover hover:scale-105 transition-transform duration-500" />
               </div>
               <div className="rounded-2xl overflow-hidden">
-                <img src="https://images.unsplash.com/photo-1494412574643-ff11b0a5eb19?w=400&h=300&fit=crop" alt="Port" className="w-full h-48 object-cover hover:scale-105 transition-transform duration-500" />
+                <img src="https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?w=400&h=300&fit=crop" alt="Port" className="w-full h-48 object-cover hover:scale-105 transition-transform duration-500" />
               </div>
               <div className="rounded-2xl overflow-hidden mt-10">
                 <img src="https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?w=400&h=300&fit=crop" alt="Warehouse" className="w-full h-48 object-cover hover:scale-105 transition-transform duration-500" />

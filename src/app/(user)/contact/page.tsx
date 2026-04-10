@@ -38,7 +38,7 @@ export default async function ContactPage({ searchParams }: { searchParams: Prom
   return (
     <>
       {/* Banner */}
-      <section className="relative h-[60vh] min-h-[400px] bg-cover bg-center" style={{ backgroundImage: 'url(https://images.unsplash.com/photo-1494412574643-ff11b0a5eb19?w=1920&h=800&fit=crop)' }}>
+      <section className="relative h-[60vh] min-h-[400px] bg-cover bg-center" style={{ backgroundImage: 'url(https://images.unsplash.com/photo-1566576721346-d4a3b4eaeb55?w=1920&h=800&fit=crop)' }}>
         <div className="absolute inset-0 bg-dark/60" />
         <div className="relative z-10 h-full flex items-end pb-20">
           <div className="max-w-[1400px] mx-auto px-6 lg:px-10 w-full">

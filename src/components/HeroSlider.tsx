@@ -12,7 +12,7 @@ const defaultSlides: Slide[] = [
   {
     title: 'Professional International Logistics',
     subtitle: 'Sea, Air, Rail & Multi-modal Transport Solutions',
-    image: 'https://images.unsplash.com/photo-1494412574643-ff11b0a5eb19?w=1920&h=800&fit=crop',
+    image: 'https://images.unsplash.com/photo-1566576721346-d4a3b4eaeb55?w=1920&h=800&fit=crop',
   },
   {
     title: 'Global Shipping Network',
